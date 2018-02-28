@@ -19,3 +19,15 @@ $navbar-default-bg: aquamarine;
 .center {
   text-align: center;
 }
+
+.jumbotron {
+  background-image: asset-url('img.png');
+  background-size: cover;
+  height: 550px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
